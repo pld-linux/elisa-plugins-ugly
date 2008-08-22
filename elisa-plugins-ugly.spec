@@ -6,7 +6,7 @@ Release:	1
 License:	GPL v3
 Group:		Applications/Multimedia
 Source0:	http://elisa.fluendo.com/static/download/elisa/%{name}-%{version}.tar.gz
-# Source0-md5:	32c4997a8b7efc2bbcd8033b7e22a4fb
+# Source0-md5:	1815dcc9d3760e6f84df90f49df04434
 URL:		http://www.fluendo.com/elisa/
 BuildRequires:	elisa = %{version}
 Provides:	elisa-plugins = %{version}
