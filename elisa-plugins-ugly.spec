@@ -1,12 +1,12 @@
 Summary:	"Ugly" plugins for elisa
 Summary(pl.UTF-8):	"Ochydne" wtyczki dla elisy
 Name:		elisa-plugins-ugly
-Version:	0.5.9
+Version:	0.5.10
 Release:	1
 License:	GPL v3
 Group:		Applications/Multimedia
 Source0:	http://elisa.fluendo.com/static/download/elisa/%{name}-%{version}.tar.gz
-# Source0-md5:	2284e67469a1322237df4e50b58b29b0
+# Source0-md5:	08288df8463edb9f1d6ce59ca59f55ee
 URL:		http://www.fluendo.com/elisa/
 BuildRequires:	elisa = %{version}
 Provides:	elisa-plugins = %{version}
